@@ -1,0 +1,7 @@
+C:\Users\Hurzhii_Bohdan\source\repos\MyAtoi\MyAtoi\bin\Debug\MyAtoi.exe.config
+C:\Users\Hurzhii_Bohdan\source\repos\MyAtoi\MyAtoi\bin\Debug\MyAtoi.exe
+C:\Users\Hurzhii_Bohdan\source\repos\MyAtoi\MyAtoi\bin\Debug\MyAtoi.pdb
+C:\Users\Hurzhii_Bohdan\source\repos\MyAtoi\MyAtoi\obj\Debug\MyAtoi.csprojAssemblyReference.cache
+C:\Users\Hurzhii_Bohdan\source\repos\MyAtoi\MyAtoi\obj\Debug\MyAtoi.csproj.CoreCompileInputs.cache
+C:\Users\Hurzhii_Bohdan\source\repos\MyAtoi\MyAtoi\obj\Debug\MyAtoi.exe
+C:\Users\Hurzhii_Bohdan\source\repos\MyAtoi\MyAtoi\obj\Debug\MyAtoi.pdb
