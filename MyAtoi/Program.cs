@@ -55,13 +55,16 @@ namespace MyAtoi
                         if (isNegative) retNumber = int.MinValue;
                         else retNumber = int.MaxValue;
                     }
+                    else 
+                    {
+                        if (isNegative) retNumber = -retNumber;
+                    }
                 }
                 else
                 {
                     retNumber = int.Parse(new string(number.ToArray()));
-                }
-                if (isNegative) retNumber = -retNumber;                
-               
+                    if (isNegative) retNumber = -retNumber;
+                }                                        
             }
             return retNumber;
         }

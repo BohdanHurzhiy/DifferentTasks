@@ -43,6 +43,15 @@ x64/
 *.log
 *.svclog
 *.scc
+*.sln
+*.exe
+*.config
+*.pdb
+*.txt
+*.cache
+*.csproj
+AssemblyInfo.cs
+.NETFramework,Version=v4.8.AssemblyAttributes.cs
 
 # Visual C++ cache files
 ipch/
